@@ -17,7 +17,7 @@ This project automates critical flows of the OrangeHRM Demo Application using Se
 
 # How to Run
 1. Clone the repository
-git clone https://github.com/YOUR_USERNAME/orange-hrm-automation.git
+git clone https://github.com/bhardwaj-commits/orange-hrm-automation.git
 cd orange-hrm-automation
 
 2. Install dependencies
